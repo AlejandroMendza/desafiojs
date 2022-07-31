@@ -28,7 +28,7 @@ for (let i = 1; i <= cantidadAlumnos; i++) {
   sumaEdades = sumaEdades + edadAlumnos;
 }
 
-//Calculo del promedio a partir de las edades obtenidas del ciclo anterior y cantidad de alumnos por función
+//Cálculo del promedio a partir de las edades obtenidas del ciclo anterior y cantidad de alumnos por función
 let promedio = prom(sumaEdades, cantidadAlumnos);
 
 //Muestra de resultado por alert y por consola 
